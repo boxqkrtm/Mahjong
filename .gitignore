@@ -31,6 +31,9 @@
 *.out
 *.app
 
-
+# folder
 .git/
 .vs/
+Mahjong/Debug/
+Mahjong/Release/
+Mahjong/x64/
